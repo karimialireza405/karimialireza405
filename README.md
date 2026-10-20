@@ -1,9 +1,7 @@
 # Alireza Karimi
 
-**Software Developer**
+I'm a programmer and software developer from Iran.
 
-I work across software development and design, taking ideas from concept to a finished experience.
+I work on desktop and mobile applications, including open-source projects you'll find here on GitHub.
 
-I enjoy solving complex problems and shaping the details of a project. My work connects technical thinking with visual judgment, with equal attention to how things function and how they feel to use.
-
-[Contact](mailto:alirezkarimi0021@gmail.com) &nbsp; · &nbsp; [ORCID](https://orcid.org/0009-0005-1236-2687)
+[Projects](https://github.com/karimialireza405?tab=repositories) &nbsp; · &nbsp; [Email](mailto:alirezkarimi0021@gmail.com) &nbsp; · &nbsp; [ORCID](https://orcid.org/0009-0005-1236-2687)
