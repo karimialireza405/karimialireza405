@@ -1,6 +1,6 @@
 # Alireza Karimi
 
-I'm a programmer and software developer from Iran.
+I'm a programmer and software developer.
 
 I work on desktop and mobile applications, including open-source projects you'll find here on GitHub.
 
